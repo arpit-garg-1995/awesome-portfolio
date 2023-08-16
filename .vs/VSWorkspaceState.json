@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
-    "\\public\\desktop_pc",
-    "\\src",
-    "\\src\\assets"
+    "\\src\\components\\canvas"
   ],
-  "SelectedNode": "\\src\\assets\\flutter.png",
   "PreviewInSolutionExplorer": false
 }
