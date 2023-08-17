@@ -48,20 +48,20 @@ const About = () => {
                 className='mt-4 text-secondary text-[17px] max-w-xxl leading-[30px]'
             >
                 5+ years of development experience with primary expertise into iOS mobile application development using Swift. Thrive to work in a challenging and a rewarding environment where my skills would be utilized productively to the best of my knowledge and to work across teams to achieve organizational goals.
-                <ul>
-                    <li>&#8226; Strong experience with Swift 5, Objective C, Cocoa, Cocoa Touch, and Xcode 14.</li>
-                    <li>&#8226; Having good experience for iOS Provisioning portal, creating development certificates, adding devices for development, creating provisioning profiles for devices.</li>
-                    <li>&#8226; Experienced with deploying application to App Store.</li>
-                    <li>&#8226; Experience With Universal (iPhone & iPad) Application Development.</li>
-                    <li>&#8226; Having good experience with web services and JSON Parsing.</li>
-                    <li>&#8226; Ability to define server API requirements, hit RESTful web services and process the resulting JSON</li>
-                    <li>&#8226; Having good experience with MapKit and Location Services.</li>
-                    <li>&#8226; Experience on camera technology, accessing camera hardware within application using AVFoundation framework.</li>
-                    <li>&#8226; Have implemented in-app Purchase functionalities.</li>
-                    <li>&#8226; Have good experience on database for iOS applications using SQLite.</li>
-                    <li>&#8226; Having experience with Apple’s Push Notification Services.</li>
-                    <li>&#8226; Experience in Social Media integration</li>
-                    <li>&#8226; Experience With with frameworks like AddressBook, AddressBook UI, iAd, ImageIO,AssetsLibrary, AVFoundation, Core Animation, Core Location , Core Audio ,QuartzCore , StoreKit, Mapkit, CLLocation.</li>
+                <ul style={{ listStyle: 'disc' }} >
+                    <li>Strong experience with Swift 5, Objective C, Cocoa, Cocoa Touch, and Xcode 14.</li>
+                    <li>Having good experience for iOS Provisioning portal, creating development certificates, adding devices for development, creating provisioning profiles for devices.</li>
+                    <li>Experienced with deploying application to App Store.</li>
+                    <li>Experience With Universal (iPhone & iPad) Application Development.</li>
+                    <li>Having good experience with web services and JSON Parsing.</li>
+                    <li>Ability to define server API requirements, hit RESTful web services and process the resulting JSON</li>
+                    <li>Having good experience with MapKit and Location Services.</li>
+                    <li>Experience on camera technology, accessing camera hardware within application using AVFoundation framework.</li>
+                    <li>Have implemented in-app Purchase functionalities.</li>
+                    <li>Have good experience on database for iOS applications using SQLite.</li>
+                    <li>Having experience with Apple Push Notification Services.</li>
+                    <li>Experience in Social Media integration</li>
+                    <li>Experience with frameworks like UIKit, SwiftUI, Foundation, Contacts, PhotoKit, AVFoundation, Core Animation, Core Location , Core Audio, StoreKit, Mapkit, Combine</li>
                 </ul>
             </motion.span>
 

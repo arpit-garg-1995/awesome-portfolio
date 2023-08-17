@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src\\components\\canvas"
+    "\\.github",
+    "\\.github\\workflows"
   ],
+  "SelectedNode": "\\.github\\workflows\\deploy.yaml",
   "PreviewInSolutionExplorer": false
 }
